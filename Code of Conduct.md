@@ -1,4 +1,4 @@
-#Microsoft Open Source Code of Conduct  <h1>
+<h1> Microsoft Open Source Code of Conduct  #
 This community has adopted the [Microsoft Open Source Code of Conduct.](https://opensource.microsoft.com/codeofconduct/)  
 
 Resources:  
