@@ -7,4 +7,4 @@ Resources:
 [Microsoft Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/)  
 Contact [v-pemanu@microsoft.com](mailto:v-pemanu@microsoft.com) with questions or concerns
 
-Thank you for be part of this community
+Thank you for being part of this community
