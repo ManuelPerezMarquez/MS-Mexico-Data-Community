@@ -1,8 +1,8 @@
-Código de conducta de Microsoft Open Source
-This project has adopted the [Microsoft Open Source Code of Conduct.](https://opensource.microsoft.com/codeofconduct/)
+Código de conducta de Microsoft Open Source  
+This project has adopted the [Microsoft Open Source Code of Conduct.](https://opensource.microsoft.com/codeofconduct/)  
 
-Resources:
+Resources:  
 
-Microsoft Open Source Code of Conduct
-Microsoft Code of Conduct FAQ
-Contact opencode@microsoft.com with questions or concerns
+Microsoft Open Source Code of Conduct  
+Microsoft Code of Conduct FAQ  
+Contact opencode@microsoft.com with questions or concerns  
