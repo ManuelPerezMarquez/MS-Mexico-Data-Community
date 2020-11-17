@@ -1,5 +1,6 @@
 # MS-Mexico-Data-Community
-
-![https://lnkd.in/ggNrtea](https://github.com/ManuelPerezMarquez/MS-Mexico-Data-Community/blob/main/Data%20Community.jfif)
-
+Link de la sesión
 https://lnkd.in/ggNrtea
+
+![Data Community](https://github.com/ManuelPerezMarquez/MS-Mexico-Data-Community/blob/main/Data%20Community.jfif)
+
